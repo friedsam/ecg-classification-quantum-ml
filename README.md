@@ -1,6 +1,3 @@
-# ecg-classification-quantum-ml
-ECG classification using classical and quantum machine learning on the PTB-XL dataset.
-
 # ECG Classification with Quantum ML
 
 This repository contains exploratory notebooks for ECG classification using the PTB-XL dataset.
